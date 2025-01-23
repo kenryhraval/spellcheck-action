@@ -1,0 +1,5 @@
+name: 'Spellcheck'
+description: 'Spellcheck all markdown files within a directory`'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
