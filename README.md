@@ -25,5 +25,5 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Run Spellcheck
-        uses: kenryhraval/spellcheck-action@v1
+        uses: kenryhraval/spellcheck-action
 ```
